@@ -27,7 +27,20 @@
         "shields": [0, 1],
         "energy": [0, 0]
     }],
-    "openCups": ["holiday", "sinnoh"],
+    "openCups": [{
+            "name": "all",
+            "title": "Great League",
+            "cp": 1500
+        }, {
+            "name": "all",
+            "title": "Ultra League",
+            "cp": 2500
+        }, {
+            "name": "all",
+            "title": "Master League",
+            "cp": 10000 
+        }
+    ],
     "cups": [{
         "name": "all",
         "title": "All Pokemon",
