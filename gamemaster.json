@@ -51,7 +51,18 @@
             "name": "remix",
             "title": "Master League (Remix)",
             "cp": 10000 
-        }
+        }, {
+        "name": "holiday",
+        "title": "Holiday Cup",
+        "cp": 1500,
+        "include": [{
+            "filterType": "type",
+            "values": ["grass", "normal", "ice", "ghost", "flying", "electric"]
+        }],
+        "exclude": [{
+            "filterType": "tag",
+            "values": ["mega"]
+        }]}
     ],
     "cups": [{
             "name": "gobattleleague",
