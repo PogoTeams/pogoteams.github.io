@@ -60,17 +60,26 @@
             "title": "Sinnoh Cup",
             "cp": 1500
         }, {
-        "name": "holiday",
-        "title": "Holiday Cup",
-        "cp": 1500,
-        "include": [{
-            "filterType": "type",
-            "values": ["grass", "normal", "ice", "ghost", "flying", "electric"]
-        }],
-        "exclude": [{
-            "filterType": "tag",
-            "values": ["mega"]
-        }]}
+            "name": "holiday",
+            "title": "Holiday Cup",
+            "cp": 1500,
+            "include": [{
+                "filterType": "type",
+                "values": ["grass", "normal", "ice", "ghost", "flying", "electric"]
+            }],
+            "exclude": [{
+                "filterType": "tag",
+                "values": ["mega"]
+            }]
+        }, {
+            "name": "factions",
+            "title": "Silph Factions (Comet)",
+            "cp": 1500
+        }, {
+            "name": "twilightfactions",
+            "title": "Silph Factions (Twilight)",
+            "cp": 1500
+        }
     ],
     "cups": [{
             "name": "gobattleleague",
