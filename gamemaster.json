@@ -71,11 +71,6 @@
             "filterType": "tag",
             "values": ["mega"]
         }]
-    }, 
-    {
-        "name": "factions",
-        "title": "Silph Factions (Comet)",
-        "cp": 1500
     }],
     "cups": [{
             "name": "gobattleleague",
