@@ -52,6 +52,15 @@
             "title": "Master League (Remix)",
             "cp": 10000 
         }, {
+            "name": "classic",
+            "title": "Master League (Classic)",
+            "cp": 1000
+        }, {
+        }, {
+            "name": "sinnoh",
+            "title": "Sinnoh Cup",
+            "cp": 1500
+        }, {
         "name": "holiday",
         "title": "Holiday Cup",
         "cp": 1500,
