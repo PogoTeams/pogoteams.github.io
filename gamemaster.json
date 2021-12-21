@@ -74,7 +74,27 @@
     }, {
         "name": "factions",
         "title": "Silph Factions (Comet)",
-        "cp": 1500
+        "cp": 1500,
+        "include": [{
+            "filterType": "type",
+            "values": ["fire", "flying", "ice", "normal", "psychic"]
+        }]
+    }, {
+        "name": "twilightfactions",
+        "title": "Silph Factions (Twilight)",
+        "cp": 1500,
+        "include": [{
+            "filterType": "type",
+            "values": ["dark", "poison", "fairy", "ghost"]
+        }]
+    }, {
+        "name": "glacial",
+        "title": "Glacial Cup",
+        "cp": 1500,
+        "include": [{
+            "filterType": "type",
+            "values": ["dragon","ice","poison","psychic","water"]
+        }]
     }],
     "cups": [{
             "name": "gobattleleague",
