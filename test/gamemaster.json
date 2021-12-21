@@ -75,6 +75,10 @@
         "name": "factions",
         "title": "Silph Factions (Comet)",
         "cp": 1500
+    }, {
+        "name": "twilightfactions",
+        "title": "Silph Factions (Twilight)",
+        "cp": 1500
     }],
     "cups": [{
             "name": "gobattleleague",
