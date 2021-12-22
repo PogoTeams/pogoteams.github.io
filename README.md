@@ -61,3 +61,5 @@ The following testing procedure is illustrated to verify the app is functioning 
 14) **Commit and Push `pogoteams.github.io`** : *Commit summary should be the timestamp currently in `timestamp.txt`.*
 
 15) **Run `flutter run` on a simulator or device of choice**
+
+![launcher_icon](https://user-images.githubusercontent.com/41221800/147149118-ef09acfa-2d33-4338-a6fc-092c6b6bf282.png)
