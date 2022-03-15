@@ -80,10 +80,6 @@
             "values": ["fairy","fighting","grass","flying","ground"]
         }]
     }, {
-        "name": "littlejungle",
-        "title": "Little Jungle Cup",
-        "cp": 500
-    }, {
         "name": "kanto",
         "title": "Kanto Cup",
         "cp": 1500
