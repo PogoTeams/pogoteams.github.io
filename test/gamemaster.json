@@ -91,6 +91,10 @@
         "name": "sinnoh",
         "title": "Sinnoh Cup",
         "cp": 1500
+    }, {
+        "name": "littlejungle",
+        "title": "Little Jungle Cup",
+        "cp": 500
     }],
     "cups": [{
         "name": "all",
