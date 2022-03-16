@@ -80,6 +80,10 @@
             "values": ["fairy","fighting","grass","flying","ground"]
         }]
     }, {
+        "name": "love",
+        "title": "Love Cup",
+        "cp": 1500
+    }, {
         "name": "kanto",
         "title": "Kanto Cup",
         "cp": 1500
